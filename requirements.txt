@@ -1,5 +1,0 @@
-﻿matplotlib
-voila
-seaborn
-numpy
-ipywidgets
