@@ -2,3 +2,4 @@
 voila
 seaborn
 numpy
+ipywidgets
