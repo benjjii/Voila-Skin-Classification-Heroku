@@ -6,6 +6,7 @@ matplotlib
 numpy
 opencv-python
 seaborn
+scikit-learn
 tensorflow
 voila
 sklearn
